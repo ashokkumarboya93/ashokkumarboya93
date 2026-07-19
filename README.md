@@ -1,271 +1,219 @@
-<!-- ======================================================================= -->
-<!--                 PREMIUM FUTURISTIC GITHUB PROFILE README                -->
-<!-- ======================================================================= -->
-
 <div align="center">
 
-<!-- HERO BANNER — VENOM CYBERPUNK GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090b,50:6d28d9,100:0891b2&text=BOYA%20ASHOK%20KUMAR&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI/ML%20%E2%80%A2%20FULL%20STACK&descSize=18&descColor=00FFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There!%20I'm%20Ashok%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ashokkumarboya93">
-    <img src="https://komarev.com/ghpvc/?username=ashokkumarboya93&label=Console%20Accesses&color=00FFFF&style=flat-square" alt="ashokkumarboya93 views" />
-  </a>
-</p>
-
-<!-- GRADIENT TYPING SUBTITLE -->
-<p align="center">
-  <a href="https://github.com/ashokkumarboya93">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=a371f7&center=true&vCenter=true&width=800&height=50&lines=Crafting+Intelligent+Software;Building+Scalable+Cloud+Pipelines;Full+Stack+Java+Development" />
-  </a>
-</p>
-
-<!-- CTA ACTION BUTTONS -->
-<p align="center">
-  <a href="https://ashokkumarportfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-00FFFF?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ashokkumarboya/"><img src="https://img.shields.io/badge/LinkedIn-a371f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:ashokkumarboya93@gmail.com"><img src="https://img.shields.io/badge/Email_Me-ff007f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-</p>
-
-<!-- GLASSMORPHIC SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner Separator" width="100%" />
-
-</div>
-
----
-
-## 📌 Console & Bio
-
-```yaml
-❯ whoami    : Boya Ashok Kumar (B.Tech CSE-AI Student @ SJCET)
-❯ status    : Java Full Stack Intern @ TAP Academy (Batch 2022-2026)
-❯ focus     : Scalable Backend Services, AI/ML Pipelines & Cloud Engineering
-❯ academics : CGPA: 8.0/10 | Coursework: DSA, DBMS, AI, ML, Deep Learning, OS
-❯ goals     : Software Engineer role @ product-based companies, open-source contribution
-❯ fun_fact  : I turn complex algorithms into clean, high-performance applications!
-```
-
----
-
-## 📊 Metrics & Analytics
-
-<div align="center">
-
-<a href="https://github.com/ashokkumarboya93">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashokkumarboya93&show_icons=true&theme=radical&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<a href="https://ashokkumarportfolio.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Scalable+Full-Stack+Apps+%F0%9F%9A%80;Training+AI%2FML+Models+%F0%9F%A4%96;Deploying+on+AWS+Cloud+%E2%98%81%EF%B8%8F;Open+to+Software+Engineering+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/ashokkumarboya93">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashokkumarboya93&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ashokkumarboya93">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashokkumarboya93&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Proficiency
-
-### 💻 Languages & Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
-</p>
-<img src="https://img.shields.io/badge/Java-85%25-ED8B00?style=flat-square&labelColor=0d1117&logo=openjdk" />&nbsp;
-<img src="https://img.shields.io/badge/Python-80%25-3776AB?style=flat-square&labelColor=0d1117&logo=python" />&nbsp;
-<img src="https://img.shields.io/badge/HTML5-90%25-E34F26?style=flat-square&labelColor=0d1117&logo=html5" />&nbsp;
-<img src="https://img.shields.io/badge/CSS3-85%25-1572B6?style=flat-square&labelColor=0d1117&logo=css3" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=flat-square&labelColor=0d1117&logo=javascript" />
-
-### 🎨 Frontend Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
-</p>
-
-### ⚙️ Backend & AI/ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,flask,tensorflow,pytorch,opencv,jupyter&theme=dark" />
-</p>
-
-### ☁️ Cloud, Databases & Dev Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,mongodb,redis,git,github,vscode,postman,figma&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 EduMetric Dashboard</h3>
-      <p><strong>Full Stack & Machine Learning</strong></p>
-      <p>Intelligent student performance analysis system with predictive risk scoring and interactive student monitoring.</p>
-      <p><code>Flask</code> <code>Supabase</code> <code>Plotly.js</code> <code>AI Analytics</code></p>
-      <a href="https://github.com/ashokkumarboya93/EduMetric-Dashboard">
-        <img src="https://img.shields.io/badge/GitHub-View_Code-a371f7?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ DDoS Detection</h3>
-      <p><strong>Cyber Security Dashboard</strong></p>
-      <p>Real-time system for identifying malicious traffic patterns with entropy analysis and FastAPI analytics.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>MySQL</code> <code>CyberSecurity</code></p>
-      <a href="https://github.com/ashokkumarboya93/DDoS-Detection-Dashboard">
-        <img src="https://img.shields.io/badge/GitHub-View_Code-a371f7?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👁️ Crowd Monitoring</h3>
-      <p><strong>Computer Vision (AI/ML)</strong></p>
-      <p>Real-time computer vision at 15–20 FPS with deep-learning crowd analysis, reducing manual monitoring by 60%.</p>
-      <p><code>PyTorch</code> <code>OpenCV</code> <code>Flask</code> <code>Streamlit</code></p>
-      <a href="https://github.com/ashokkumarboya93/Crowd-Monitoring-System">
-        <img src="https://img.shields.io/badge/GitHub-View_Code-a371f7?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 Salary Prediction</h3>
-      <p><strong>Machine Learning Dashboard</strong></p>
-      <p>End-to-end ML pipeline with feature engineering and regression modeling for accurate salary prediction.</p>
-      <p><code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> <code>Streamlit</code></p>
-      <a href="https://github.com/ashokkumarboya93/Salary-Prediction-Dashboard">
-        <img src="https://img.shields.io/badge/GitHub-View_Code-a371f7?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ AWS File Storage</h3>
-      <p><strong>Cloud Architecture</strong></p>
-      <p>Secure cloud-based file sharing with pre-signed URL access and scalable multi-user architecture.</p>
-      <p><code>AWS EC2</code> <code>VPC</code> <code>S3</code> <code>CloudWatch</code></p>
-      <a href="https://github.com/ashokkumarboya93/AWS-File-Storage-Sharing">
-        <img src="https://img.shields.io/badge/GitHub-View_Code-a371f7?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌾 Food Production Trends</h3>
-      <p><strong>Data Analytics & Visualization</strong></p>
-      <p>Analyzed global food production trends (1961–2023) with interactive custom data visualization dashboards.</p>
-      <p><code>Power BI</code> <code>Data Analytics</code> <code>Visualization</code></p>
-      <a href="https://github.com/ashokkumarboya93/Food-Production-Trends">
-        <img src="https://img.shields.io/badge/GitHub-View_Code-a371f7?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💼 Experience & Internships
-
-| Timeline | Role | Company / Platform | Key Focus & Impact |
-| :--- | :--- | :--- | :--- |
-| **Present** | **Java Full Stack Intern** | **TAP Academy** | Building enterprise apps using `Spring Boot`, `Hibernate`, and optimizing `MySQL` database performance. |
-| **Jun – Aug 2025** | **AI/ML Intern** | **Infosys Springboard** | Automated Python MLOps pipelines and boosted predictive model accuracy **from 78% to 90%**. |
-| **May – Jul 2025** | **AI Intern** | **AICTE IBM Edunet** | Developed regression forecasting models deployed on cloud AI environments using `IBM Watson`. |
-| **Mar – May 2025** | **Data Analyst Intern** | **SmartInternz** | Processed **50k+ rows** of raw data to engineer real-time dashboards, reducing manual reports by **40%**. |
-
----
-
-## 🏅 Metrics & Achievements
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <h2>300+</h2>
-      <p>LeetCode Solved</p>
-    </td>
-    <td align="center" width="25%">
-      <h2>250+</h2>
-      <p>GeeksforGeeks Solved</p>
-    </td>
-    <td align="center" width="25%">
-      <h2>10+</h2>
-      <p>Projects Architected</p>
-    </td>
-    <td align="center" width="25%">
-      <h2>4</h2>
-      <p>Internships Done</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📜 Certifications
-
-- 🏆 **Oracle Certified:** AI Vector Search Professional
-- 🏆 **IBM SkillsBuild:** AI Fundamentals & Getting Started with Data
-- 🏆 **CISCO Academy:** Data Analytics Essentials
-- 🏆 **Campus Code:** Python Crash Course
-
----
-
-## 🎮 Contribution Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- ========== 🦾 IRON MAN — GLOWING EYES SVG ========= -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h3>🦾 Powered by Passion</h3>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 200 200">
-  <defs>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#00E5FF;stop-opacity:1">
-        <animate attributeName="stop-opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#00E5FF;stop-opacity:0"/>
-    </radialGradient>
-    <linearGradient id="helmet" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#a371f7"/>
-      <stop offset="50%" style="stop-color:#6d28d9"/>
-      <stop offset="100%" style="stop-color:#1e1b4b"/>
-    </linearGradient>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00FFFF"/>
-      <stop offset="100%" style="stop-color:#0284c7"/>
-    </linearGradient>
-  </defs>
-  <path d="M100 15 L160 65 L155 140 L130 175 L70 175 L45 140 L40 65 Z" fill="url(#helmet)" stroke="#a371f7" stroke-width="2"/>
-  <path d="M100 50 L140 80 L135 135 L120 160 L80 160 L65 135 L60 80 Z" fill="url(#gold)" stroke="#00FFFF" stroke-width="1.5"/>
-  <polygon points="70,90 95,85 90,110 68,105" fill="url(#glow)" stroke="#00E5FF" stroke-width="1.5">
-    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
-  </polygon>
-  <polygon points="130,90 105,85 110,110 132,105" fill="url(#glow)" stroke="#00E5FF" stroke-width="1.5">
-    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" begin="0.3s"/>
-  </polygon>
-  <line x1="80" y1="140" x2="120" y2="140" stroke="#1e1b4b" stroke-width="2"/>
-  <circle cx="100" cy="55" r="5" fill="#00E5FF" opacity="0.8">
-    <animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2s" repeatCount="indefinite"/>
-  </circle>
-</svg>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&duration=4000&pause=2000&color=00E5FF&center=true&vCenter=true&random=false&width=350&height=25&lines=%22I+am+Iron+Man%22+—+Tony+Stark" />
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=ashokkumarboya93&color=6366F1&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ashokkumarboya93?label=Followers&style=for-the-badge&color=22D3EE&logo=github)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://ashokkumarportfolio.vercel.app)
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name:          Boya Ashok Kumar
+role:          Aspiring Software Engineer — Full-Stack · AI/ML · Cloud
+education:     B.Tech CSE (AI), St. Johns College of Engineering & Technology — CGPA 8.3/10
+current_role:  Java Full Stack Intern @ TAP Academy, Bengaluru
+past_roles:    AI/ML Intern @ Infosys Springboard · AI Intern @ AICTE-IBM Edunet · Data Analyst Intern @ SmartInternz
+currently:     🔭 Building enterprise apps with Java, Spring Boot & Hibernate
+learning:      🌱 Cloud-native architecture & advanced Spring Security
+collaborate:   👯 Full-stack, AI/ML, or cloud-based projects
+reach_me:      📫 ashokkumarboya93@gmail.com
+fun_fact:      ⚡ I like turning messy datasets into dashboards people actually enjoy using
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**Languages & Core**
+<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Tools**
+<br/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**AI / ML / Data Science**
+<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Cloud & DevOps**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+  <td width="50%" valign="top">
+
+### 📊 [EduMetric Analytics](https://github.com/ashokkumarboya93/edumetric-analytics)
+Full-stack student performance prediction platform — CRUD APIs under 200ms across 500+ records, with an 88%-accuracy risk model shown via interactive charts.
+<br/>
+`Flask` `PostgreSQL` `Scikit-learn` `Plotly.js`
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🚌 [SwiftRide](https://github.com/ashokkumarboya93/swiftride)
+Enterprise smart-transit booking platform with JWT role-based access, transactional seat booking, and PDF ticket generation.
+<br/>
+`Java 21` `Spring Boot 3.3` `Spring Security` `MySQL`
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+### 🎥 [Deep-Vision Crowd Monitoring](https://github.com/ashokkumarboya93/deep-vision-crowd-monitoring)
+Real-time CNN-based crowd detection at 15–20 FPS via a Flask REST API + Streamlit dashboard — cut manual monitoring effort by 60%.
+<br/>
+`PyTorch` `OpenCV` `Streamlit` `CNN`
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🛡️ [Entropy-Based DDoS Detection](https://github.com/ashokkumarboya93/entropy-ddos-detection)
+Real-time malicious-traffic identification system using entropy analysis, served through a FastAPI analytics layer.
+<br/>
+`Python` `FastAPI` `MySQL`
+
+  </td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔎 More Projects</b></summary>
+<br/>
+
+- **☁️ AWS File Storage & Sharing** — Secure multi-user cloud file sharing with pre-signed URL access · `AWS EC2` `VPC` `S3` `CloudWatch`
+- **💰 Employee Salary Prediction** — End-to-end regression pipeline with feature engineering · `Python` `Scikit-learn`
+- **🌾 Global Food Production Trends** — Interactive dashboards on 1961–2023 production data · `Power BI`
+- **📋 Student Attendance System** — Full-stack attendance platform with secure login & live dashboards · `PHP` `MySQL`
+
+</details>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashokkumarboya93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokkumarboya93&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashokkumarboya93&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="90%"/>
+
+</div>
+
+<br/>
+
+## 🔥 Streak Stats & 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ashokkumarboya93&theme=tokyonight&hide_border=true&border_radius=8" width="70%"/>
 
 <br/><br/>
 
-<!-- GLOWING FOOTER SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Footer Line" width="100%" />
+<img src="https://raw.githubusercontent.com/ashokkumarboya93/ashokkumarboya93/output/github-contribution-grid-snake.svg" width="90%"/>
+
+</div>
+
+<details>
+<summary><b>⚙️ Snake workflow (GitHub Action — keeps the snake above alive)</b></summary>
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ashokkumarboya93
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokkumarboya93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashokkumarboya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://ashokkumarportfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashokkumarboya93)
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
 
 </div>
