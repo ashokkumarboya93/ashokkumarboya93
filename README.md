@@ -3,11 +3,6 @@
 <a href="https://ashokkumarportfolio.vercel.app">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Scalable+Full-Stack+Apps+%F0%9F%9A%80;Training+AI%2FML+Models+%F0%9F%A4%96;Deploying+on+AWS+Cloud+%E2%98%81%EF%B8%8F;Open+to+Software+Engineering+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
-<br/>
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=ashokkumarboya93&color=6366F1&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ashokkumarboya93?label=Followers&style=for-the-badge&color=22D3EE&logo=github)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://ashokkumarportfolio.vercel.app)
  
 </div>
 <br/>
