@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7209B7,100:3A0CA3&height=260&section=header&text=Hey%2C%20I%27m%20Ashok%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Turning%20Coffee%20%26%20Code%20into%20Products%20%E2%98%95%F0%9F%9A%80&descAlignY=54&descSize=18" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="130"/>
+<img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="130"/>
 
 <a href="https://ashokkumarportfolio.vercel.app">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=FF2E92&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=Turning+Ideas+Into+Code+%F0%9F%92%BB;Full-Stack+Dev+%7C+AI%2FML+%7C+Cloud+%E2%98%81%EF%B8%8F;Java+Full+Stack+Intern+%40+TAP+Academy;Always+Shipping%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
