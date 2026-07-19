@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There!%20I'm%20Ashok%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-<a href="https://ashokkumarportfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Scalable+Full-Stack+Apps+%F0%9F%9A%80;Training+AI%2FML+Models+%F0%9F%A4%96;Deploying+on+AWS+Cloud+%E2%98%81%EF%B8%8F;Open+to+Software+Engineering+Roles+%F0%9F%92%BC" alt="Typing SVG" />
-</a>
+
  
 </div>
 <br/>
