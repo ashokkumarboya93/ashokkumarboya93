@@ -1,4 +1,17 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There!%20I'm%20Ashok%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<a href="https://ashokkumarportfolio.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Scalable+Full-Stack+Apps+%F0%9F%9A%80;Training+AI%2FML+Models+%F0%9F%A4%96;Deploying+on+AWS+Cloud+%E2%98%81%EF%B8%8F;Open+to+Software+Engineering+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+</a>
+<br/>
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=ashokkumarboya93&color=6366F1&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ashokkumarboya93?label=Followers&style=for-the-badge&color=22D3EE&logo=github)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://ashokkumarportfolio.vercel.app)
+ 
+</div>
+<br/>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7209B7,100:3A0CA3&height=260&section=header&text=Hey%2C%20I%27m%20Ashok%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Turning%20Coffee%20%26%20Code%20into%20Products%20%E2%98%95%F0%9F%9A%80&descAlignY=54&descSize=18" width="100%"/>
 
