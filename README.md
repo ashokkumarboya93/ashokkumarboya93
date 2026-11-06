@@ -40,7 +40,7 @@
 
 <img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif"/>
 
-I'm **Boya Ashok Kumar**, a final-year B.Tech CSE (AI) student who enjoys the whole journey from a raw dataset or a blank repo to a deployed, working product. My comfort zone spans **full-stack development, AI/ML pipelines, and cloud architecture** — I like projects that touch all three.
+I'm **Boya Ashok Kumar**, a 2026 B.Tech CSE (AI) Graduate who enjoys the whole journey from a raw dataset or a blank repo to a deployed, working product. My comfort zone spans **full-stack development, AI/ML pipelines, and cloud architecture** — I like projects that touch all three.
 
 - 🔭 Currently building enterprise apps with **Java, Spring Boot & Hibernate** as a Full Stack Intern
 - 🌱 Leveling up on **cloud-native architecture** and advanced **Spring Security**
